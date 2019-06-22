@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1068763262502",
+    "firebase_url": "https://mcams-4a71d.firebaseio.com",
+    "project_id": "mcams-4a71d",
+    "storage_bucket": "mcams-4a71d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068763262502:android:1a0d3011a9dcfbbc",
+        "android_client_info": {
+          "package_name": "apartmentmanagementsystem.nilaram.ams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068763262502-ahv34lra4lhf0deo30fgh6pdmh37qcqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apartmentmanagementsystem.nilaram.ams",
+            "certificate_hash": "03592c142f9da59266e78615a12128c1633e6693"
+          }
+        },
+        {
+          "client_id": "1068763262502-d08gs3i0941l8bss8hus8rpv0ir0p317.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9aQrR5ee9jI4su0xwWKcI6kar4QKbnc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068763262502-d08gs3i0941l8bss8hus8rpv0ir0p317.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

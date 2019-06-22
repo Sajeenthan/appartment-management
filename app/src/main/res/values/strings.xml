@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AMS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="title_activity_new_complaint">NewComplaint</string>
+    <string name="title_activity_view_complaints">ViewComplaints</string>
+    <string name="title_activity_view_notifications">ViewNotifications</string>
+    <string name="title_activity_view_events">ViewEvents</string>
+    <string name="edit">Edit</string>
+    <string name="title_activity_edit_profile">EditProfile</string>
+    <string name="submit">Submit</string>
+    <string name="textview">TextView</string>
+    <string name="description">Description</string>
+    <string name="title">Title:</string>
+    <string name="gas_bill">Gas bill:</string>
+    <string name="water_bill">Water bill:</string>
+    <string name="electricity_bill">Electricity bill:</string>
+    <string name="security_charge">Security charge:</string>
+    <string name="other">Other:</string>
+    <string name="total_amount">Total amount:</string>
+    <string name="total">Total:</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+    <string name="contact">Contact:</string>
+</resources>
