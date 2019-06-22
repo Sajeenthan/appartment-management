@@ -32,7 +32,7 @@ class ConnectionClass {
 
         String driverClass = "com.mysql.jdbc.Driver";
 
-        String ip = "192.168.1.4";
+        String ip = "10.10.0.194";
         String db = "ams2";
         String un = "root";
         String password = "";

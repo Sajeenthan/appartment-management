@@ -1,4 +1,0 @@
-#Sun Jan 27 14:13:41 IST 2019
-base.0=C\:\\Users\\makiv\\Desktop\\Nila\\MCAMS\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex

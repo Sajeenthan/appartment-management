@@ -1,4 +1,4 @@
-#Sun Jan 27 12:44:01 IST 2019
-base.0=C\:\\Users\\makiv\\Desktop\\Nila\\MCAMS\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+#Sat Jun 22 12:01:01 IST 2019
+base.0=/home/chelvan/Desktop/MCAMS/app/build/intermediates/transforms/dexMerger/debug/10
 path.0=classes.dex
 renamed.0=classes.dex
